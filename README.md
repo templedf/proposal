@@ -1,16 +1,16 @@
 #Bikeshed Proposal
 
 ##Abstract
-The purpose of the Bikeshed project is to determine the technical direction, logo and name of the project (however, this is still under discussion).  Bikeshedding is a key requirement for most open-source development projects, and software projects in general, and we think it’s important to build something that satisfies these needs.
+The purpose of the Bikeshed project is to determine the technical direction, logo, and name of the project (however, this is still under discussion).  Bikeshedding is a key requirement for most open-source development projects, and software projects in general, and we think it’s important to build something that satisfies these needs.
 
 ##Proposal
-We propose to contribute Bikeshed and associated artifacts (whatever they turn out to be) to the Apache Software Foundation with the intent of forming a productive, bureaucratic and open community around Bikeshed through continued and exhaustive discussion.
+We propose to contribute Bikeshed and associated artifacts (whatever they turn out to be) to the Apache Software Foundation with the intent of forming a productive, bureaucratic, and open community around Bikeshed through continued and exhaustive discussion.
 
 ##Background
-Since the beginning of software design, there has been a need for individuals to offer strong opinions on key features related to the project. These discussions revolve around naming objects, and logo designs, although the Bikeshed project hopes to grow to encompass naming modules, website colors, error messages and renaming objects. Bikeshed exists to provide structure and rigor around these crucially trivial discussions, whether they be in-person, in a JIRA or on the mailing list. Typically, as projects grow in complexity, the amount of meaningful feedback on larger features is minimal, however everyone seems to have an opinion on relatively meaningless design decisions. Little or no knowledge of systems is required.
+Since the beginning of software design, there has been a need for individuals to offer strong opinions on key features related to the project. These discussions revolve around naming objects and logo designs, although the Bikeshed project hopes to grow to encompass naming modules, website colors, error messages, and renaming objects. Bikeshed exists to provide structure and rigor around these crucially trivial discussions, whether they be in-person, in a JIRA or on the mailing list. Typically, as projects grow in complexity, the amount of meaningful feedback on larger features is minimal, however everyone seems to have an opinion on relatively meaningless design decisions. Little or no knowledge of systems is required.
 
 ##Rationale
-Despite the abundance of tools for group collaboration already in adoption, the Bikeshed team has very strong opinions that will provide an improvement in all software projects, and allow for Bikeshedding at a massive scale. Extended discussion, thought, and scrutiny, paid to details which have small impact on the project as a whole, is something that all engineers can understand. The timing is right to introduce this framework, or template, or whatever it turns out to be, to the community at large. We believe the ASF is the correct venue to foster the continued operation of this project, in spite of any internal Bikeshed stagnation. The current core developers are very excited to add an official commit bit.
+Despite the abundance of tools for group collaboration already in adoption, the Bikeshed team has very strong opinions that will provide an improvement in all software projects and allow for Bikeshedding at a massive scale. Extended discussion, thought, and scrutiny, paid to details which have small impact on the project as a whole, is something that all engineers can understand. The timing is right to introduce this framework, or template, or whatever it turns out to be, to the community at large. We believe the ASF is the correct venue to foster the continued operation of this project, in spite of any internal Bikeshed stagnation. The current core developers are very excited to add an official commit bit.
 
 ##Initial Goals
 Our initial goals are as follows:
@@ -19,7 +19,7 @@ Our initial goals are as follows:
 * Discuss web frameworks for the site.
 * Refine the voting.
 * Talk more about the name of the project
-* Transfer source code, documentation and associated artifacts to the ASF.
+* Transfer source code, documentation, and associated artifacts to the ASF.
 * Draw a picture of the logo in black and white, apply a photoshop filter from early 2000
 * Grow the user and developer communities.
 * Design the initial website, including color and layout.
@@ -28,7 +28,7 @@ Our initial goals are as follows:
 Bikeshed is currently under discussion for the correct licensing model, though we are close to deciding on Apache.  There are numerous logo sources available in MS Paint on the founders laptops. All code reviews must be done on public instances of the Gerrit, Crucible, and GitLab (Note: There is an ongoing discussion about changing the review process and tools). The reviews must then be signed in triplicate with wet ink from all committers before a discussion to include the patch upstream can begin. Before a patch is committed, it must pass a suite of pre-commit software and grammar tests.  These tests are currently being voted on where to be hosted. One of our initial goals will be to work with the ASF Infrastructure team to find a way to run these tests in an acceptable way on publicly accessible machines.
 
 ##Meritocracy
-We understand the central importance of meritocracy to the Apache Way. We will work to establish a welcoming, fair and meritocratic community, in part by expanding the set of committers on the project. Although Bikeshed’s committer list will initially be dominated by members of the Apache Community and the members of the Barista community, we look forward to growing a rich user and developer community.
+We understand the central importance of meritocracy to the Apache Way. We will work to establish a welcoming, fair, and meritocratic community, in part by expanding the set of committers on the project. Although Bikeshed’s committer list will initially be dominated by members of the Apache Community and the members of the Barista community, we look forward to growing a rich user and developer community.
 
 ##Community
 Bikeshed will ultimately have strong community. We will have an email alias of either bikeshed-dev or dev-bikeshed (under discussion). We wish to attract more developers to the project, and we believe that the ASF’s open and meritocratic philosophy will help us with this. We note the success of other, similar projects already part of the ASF.
